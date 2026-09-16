@@ -1,4 +1,5 @@
 Write your reflection here.
+#My first struggle of this assignment was understanding the instructions in the README section, so I used the chatbot made by professor Fudge to break it down for me. I think that reading the instructions in VS Code was a little jarring visually, so the cleaner-looking instruction set that the chatbot gave me was easier to understand. Another early struggle I had was cloning my fork into VS Code, which one of my classmates helped me with. She told me to open my Powershell terminal and write 'git clone' followed by the link to my fork, and then showed me how to open my file in VS Code after that. I was having trouble writing some of the early code in transform.py, such as clean_currency(value) and clean_quantity(value), but the instructions of Fudge's chatbot paired with the coding and integration abilities of the VS Code chatbot helped me get the ball rolling and write test-passable code for that section.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from this assignment (package, module, ETL, coercion, public API,
